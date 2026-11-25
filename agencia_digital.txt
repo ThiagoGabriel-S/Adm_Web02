@@ -1,23 +1,23 @@
 ====================================================
 RELATÓRIO FINAL — AGÊNCIA DIGITAL (TEMA 02)
 Estratégia de Conteúdo Avançada
-Data: 25/11/2026, 15:42:27
+Data: 25/11/2026, 16:10:07
 Missões concluídas: 12 de 12
 ====================================================
 
 🏪 NEGÓCIO ESCOLHIDO
 Nome: GigaTech Games
 Tipo: Loja virtual
-Descrição: Loja especializada em jogos digitais, consoles, periféricos e acessórios com entrega rápida e preço acessível.
+Descrição: Loja especializada em jogos físicos e digitais, consoles, periféricos e acessórios com entrega rápida e preço acessível.
 
 ----------------------------------------------------
 🎯 MISSÕES PRÁTICAS
 ----------------------------------------------------
 [✔] 🎭 Persona
-    → Charles, 22 anos, estudante universitário e estagiário, joga no computador e no console aos fins de semana. Busca lançamentos e promoções de jogos digitais e periféricos com custo-benefício, entrega imediata da chave e pagamento via Pix.
+    → Charles, 22 anos, estudante universitário e estagiário, joga no computador e no console. Busca lançamentos e promoções de jogos digitais e periféricos com custo-benefício.
 
 [✔] 🎯 Objetivo SMART
-    → Aumentar em 25% as vendas de jogos digitais e periféricos nos próximos 60 dias, alcançando pelo menos 150 pedidos concluídos por meio das redes sociais.
+    → Vender pelo menos 10 jogos ou periféricos diariamente, alcançando pelo menos 150 pedidos concluídos por meio das redes sociais.
 
 [✔] 🗺️ Jornada do Consumidor
     → Descoberta: Pesquisa no Google ou vê um vídeo sobre lançamentos e promoções de jogos -> Consideração: Acessa a loja, compara preços, lê reviews e verifica formas de pagamento e prazo de entrega -> Decisão: Usa um cupom de primeira compra, finaliza o pedido via Pix e recebe a chave digital na hora.
@@ -26,10 +26,10 @@ Descrição: Loja especializada em jogos digitais, consoles, periféricos e aces
     → Os 7 melhores jogos leves para rodar em PC sem placa de vídeo dedicada. Mídia física ou digital: qual vale mais a pena hoje? Como escolher o melhor headset custo-benefício. Jogos mais aguardados do ano para PC, PS5 e Xbox. Como montar um setup funcional gastando pouco.
 
 [✔] ✍️ Conteúdo (publicação)
-    → Mídia física ou digital: qual vale mais a pena para o seu bolso? Na hora de garantir aquele lançamento tão esperado, surge a dúvida: comprar o disco físico ou apostar na mídia digital? Cada formato tem vantagens claras dependendo do seu perfil de jogador. Os jogos digitais ganham na praticidade: você compra, recebe o código na hora e já começa a baixar sem esperar frete ou sair de casa. Além disso, costumam ter promoções relâmpago frequentes. Já a mídia física é ideal para quem gosta de colecionar caixinhas, emprestar jogos para amigos ou revender o título depois de zerar para recuperar parte do investimento.
+    → Mídia física ou mídia digital: qual vale mais a pena? Na hora de garantir aquele lançamento tão esperado, surge a dúvida: comprar o disco físico ou a mídia digital? Cada formato tem vantagens claras dependendo do seu perfil de jogador. Os jogos digitais ganham na praticidade: você compra, recebe o código na hora e já começa a baixar sem esperar frete ou sair de casa. Além disso, costumam ter promoções relâmpago frequentes. Já a mídia física é ideal para quem gosta de colecionar caixinhas, emprestar jogos para amigos ou revender o título depois de zerar para recuperar parte do investimento.
 
 [✔] 📢 Distribuição
-    → E-mail marketing / WhatsApp: Envio do artigo junto com uma seleção de jogos em promoção e cupom exclusivo para membros.
+    → E-mail marketing / WhatsApp e Discord: Envio do artigo junto com uma seleção de jogos em promoção e cupons.
 
 [✔] 🎯 Personalização
     → Versão A (jogador casual): "Quer jogar mais gastando menos? Compare mídia física e digital e aproveite chaves com entrega imediata e desconto no Pix na GigaTech Games!"  Versão B (colecionador): "Nada supera a estante completa! Descubra quando vale investir na edição física ou digital e garanta seus títulos favoritos na GigaTech Games."
@@ -38,7 +38,7 @@ Descrição: Loja especializada em jogos digitais, consoles, periféricos e aces
     → Palavra-chave: mídia física ou mídia digital; Título: Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? ; Descrição: Descubra as vantagens e desvantagens entre mídia física e mídia digital, compare preços e veja onde comprar jogos com entrega rápida na GigaTech Games.
 
 [✔] ❤️ Engajamento
-    → "Acesse agora o catálogo da GigaTech Games, use o cupom GIGAGAMER10 e garanta seu próximo jogo com entrega imediata!" ; Pergunta para comentários: "E você, prefere a praticidade da biblioteca digital ou não abre mão da caixinha na estante? Conta nos comentários!"
+    → "Acesse agora o catálogo da GigaTech Games, use o cupom GIGAGAMER10 e garanta seu próximo jogo com entrega imediata!"
 
 [✔] 🔄 Iteração
     → Acompanhar semanalmente pelo Google Analytics e Search Console a taxa de cliques do título nos resultados de busca, o tempo médio de leitura na página e a taxa de conversão do cupom. Realizar um teste com duas variações de título e botão de compra após 15 dias, mantendo a versão com maior número de cliques e vendas concluídas.
@@ -53,8 +53,8 @@ Descrição: Loja especializada em jogos digitais, consoles, periféricos e aces
 📄 PÁGINA DE CONTEÚDO (mini-editor)
 ----------------------------------------------------
 Título SEO: Mídia Física ou Digital: Qual vale mais a pena? 
-URL amigável: https://seusite.com.br/midia-fisica-ou-digital
-Meta description: Descubra as vantagens e desvantagens entre mídia física e digital, compare preços e veja onde comprar seus jogos com entrega rápida na GigaTech Games.
+URL amigável: https://gigatech.com.br/midia-fisica-ou-digital
+Meta description: Descubra as vantagens e desvantagens entre mídia física e mídia digital, compare preços e veja onde comprar seus jogos com entrega rápida na GigaTech Games.
 Corpo do conteúdo:
 Na hora de garantir aquele lançamento tão esperado, surge a dúvida: comprar o disco físico ou apostar na mídia digital? As mídias digitais oferecem ativação imediata, zero espera de frete e promoções frequentes. Já a mídia física é perfeita para colecionadores e permite emprestar ou revender o jogo depois de zerar. Na GigaTech Games, você encontra as melhores ofertas nos dois formatos com pagamento rápido via Pix. Confira nosso catálogo e escolha o seu próximo jogo!
 
